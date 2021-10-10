@@ -19,5 +19,5 @@ redirect_from:
 - Instructor (Fall 2020)
 - Teaching Assistant (Fall 2017; Fall 2019; Spring 2020)
 
-### STATA Workshop for Graduate Students###
+### STATA Workshop for Graduate Students
 - Instructor (Summer 2017)
