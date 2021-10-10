@@ -3,6 +3,8 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+header-includes:
+    - \usepackage{setspace}\singlespacing
 redirect_from:
   - /teaching
 ---
@@ -11,7 +13,7 @@ redirect_from:
 
 ### University of Minnesota - Twin Cities
 
----
+----------------
 
 __APEC 1101 Principles of Microeconomics__ 
 - Instructor (Fall 2020)
