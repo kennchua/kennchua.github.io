@@ -15,12 +15,9 @@ redirect_from:
 
 ----------------
 
-
 ### APEC 1101 Principles of Microeconomics 
 - Instructor (Fall 2020)
 - Teaching Assistant (Fall 2017; Fall 2019; Spring 2020)
-
-
 
 ### STATA Workshop for Graduate Students###
 - Instructor (Summer 2017)
