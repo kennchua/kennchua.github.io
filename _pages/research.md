@@ -5,18 +5,19 @@ author_profile: true
 ---
 
 ## Job Market Paper
-The Impacts of School Finance on Student Achievment: Evidence from the Philippines.
+"The Impacts of School Finance on Student Achievment: Evidence from the Philippines."
 
 
 
 ## Work in Progress
-Peer Effects in Learning and the Formation of Academic Interests. *Draft available upon request*
+"Peer Effects in Learning and the Formation of Academic Interests." *Draft available upon request.*
 
-"Effective Training through a Mobile App: Evidence from a Randomized Field Experiment," with Qingxiao Li and Khandker Wahedur Rahman. *Draft available upon request*
+"Effective Training through a Mobile App: Evidence from a Randomized Field Experiment," with Qingxiao Li and [Khandker Wahedur Rahman](https://www.kwrahman.com/). *Draft available upon request.*
 
-Parental Education and Early Childhood Investments in Africa. 
+"Parental Education and Early Childhood Investments in Africa." 
 
 
 ## Peer-reviewed Publications
 ["Heat Waves, Climate Change, and Economic Output,"](https://doi.org/10.1093/jeea/jvab009) with Steve Miller, Jay Coggins, and Hamid Mohtadi. *Journal of the European Economic Association* (2021).
 
+["Tenurial Security and Agricultural Investment: Evidence from Vietnam,"](https://doi.org/10.1016/j.foodpol.2020.101839) with [Marc Bellemare](http://marcfbellemare.com/wordpress/), [Julieth Santamaria](https://www.juliethsantamaria.com/), and [Khoa Vu](https://sites.google.com/view/khoavu-umn/home). *Food Policy* (2020).
