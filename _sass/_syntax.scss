@@ -18,7 +18,7 @@ div.highlighter-rouge, figure.highlight {
     padding: 0.5em;
     background-color: $lighter-gray;
     content: "\f121";
-    font-family: "fontawesome" !important;
+    font-family: "Font Awesome 5 free" !important; // "fontawesome"
     font-size: $type-size-6;
     line-height: 1;
     text-transform: none;
@@ -28,7 +28,7 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
+    font-size: 0.8125em; // $type-size-7;
     line-height: 1.8;
   }
 }
@@ -53,7 +53,7 @@ div.highlighter-rouge, figure.highlight {
    green     #859900  operators, other keywords
    ========================================================================== */
 
-.highlight .c { color: #93a1a1 } /* Comment */
+.highlight .c { color: #93a1a1; font-style: italic  } /* Comment */
 .highlight .err { color: #586e75 } /* Error */
 .highlight .g { color: #586e75 } /* Generic */
 .highlight .k { color: #859900 } /* Keyword */
@@ -62,11 +62,14 @@ div.highlighter-rouge, figure.highlight {
 .highlight .o { color: #859900 } /* Operator */
 .highlight .x { color: #cb4b16 } /* Other */
 .highlight .p { color: #586e75 } /* Punctuation */
-.highlight .cm { color: #93a1a1 } /* Comment.Multiline */
-.highlight .cp { color: #859900 } /* Comment.Preproc */
-.highlight .c1 { color: #93a1a1 } /* Comment.Single */
-.highlight .cs { color: #859900 } /* Comment.Special */
-.highlight .gd { color: #2aa198 } /* Generic.Deleted */
+
+.highlight .ch { color: #8f5902; font-style: italic } /* Comment.Hashbang */
+.highlight .cm { color: #8f5902; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #8f5902; font-style: italic } /* Comment.Preproc */
+.highlight .cpf { color: #8f5902; font-style: italic } /* Comment.PreprocFile */
+.highlight .c1 { color: #8f5902; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #8f5902; font-style: italic } /* Comment.Special */
+
 .highlight .ge { color: #586e75; font-style: italic } /* Generic.Emph */
 .highlight .gr { color: #dc322f } /* Generic.Error */
 .highlight .gh { color: #cb4b16 } /* Generic.Heading */
