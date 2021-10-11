@@ -12,6 +12,9 @@ Welcome!  I am Kenn Chua, a PhD student in Applied Economics at the [Department 
 
 My current research studies the role of school resources and environment in shaping student learning. I also have ongoing projects studying the impact of information technology in education and economic development. 
 
-Fields of Interest: &nbsp;
-Primary: Applied Microeconomics and Development Economics &nbsp;
-Secondary: Labor Economics and Environmental Economics
+<p style="line-height:115%">
+Fields of interest:
+_Primary:_ Applied Microeconomics and Development Economics
+_Secondary:_ Labor Economics and Environmental Economics
+</p>
+
