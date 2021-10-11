@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Job Market Paper
-"The Impacts of School Finance on Student Achievment: Evidence from the Philippines."
+"The Impacts of School Finance on Student Achievement: Evidence from the Philippines."
 
 
 
