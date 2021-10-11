@@ -25,17 +25,17 @@ devtools::install_github("kennchua/kctools")
 During my [#rstats](https://twitter.com/search?q=%23rstats&src=typed_query) journey, I've relied on several resources that have proven invaluable in getting more accustomed to and proficient at using `R`. The following is a curated list that I hope will be useful for begginning and intermediate users who want to improve their skills in the programming language.
 
 1. Introduction to R
-    - Hadley Wickham and Garret Grolemund's [R for Data Science](https://r4ds.had.co.nz/)
-    - Steve Haroz's [A Succint Introduction to R](http://r-guide.steveharoz.com/)
+- Hadley Wickham and Garret Grolemund's [R for Data Science](https://r4ds.had.co.nz/)
+- Steve Haroz's [A Succint Introduction to R](http://r-guide.steveharoz.com/)
 2. Data Visualization in R
-    - Yan Holtz's [R Graph Gallery](https://www.r-graph-gallery.com/)
-    - Kieran Healy's [Data Visualization: A Practical Introduction](https://kieranhealy.org/publications/dataviz/)
+- Yan Holtz's [R Graph Gallery](https://www.r-graph-gallery.com/)
+- Kieran Healy's [Data Visualization: A Practical Introduction](https://kieranhealy.org/publications/dataviz/)
 3. Causal Inference and Econometrics in R (plus Stata and Python)
-    - Scott Cunningham's [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html)
-    - Nick Huntington-Klein's [The Effect](https://theeffectbook.net/index.html)
+- Scott Cunningham's [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html)
+- Nick Huntington-Klein's [The Effect](https://theeffectbook.net/index.html)
 4. Spatial Analysis in R
-    - Robin Lovelace, Jakub Nowosad, and Jannes Muenchow's [Geocomputation with R](https://geocompr.robinlovelace.net/)
-    - Manuel Gimond's [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/)
+- Robin Lovelace, Jakub Nowosad, and Jannes Muenchow's [Geocomputation with R](https://geocompr.robinlovelace.net/)
+- Manuel Gimond's [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/)
 5. Other Resources
     - Grant McDermott's [Data Science for Economists](https://github.com/uo-ec607/lectures) lecture notes
     - Andrew Heiss's [Data Visualization](https://datavizs21.classes.andrewheiss.com/) course materials
