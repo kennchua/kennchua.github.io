@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-### University of Minnesota - Twin Cities
+## University of Minnesota - Twin Cities
 
 - **APEC 1101 Principles of Microeconomics**
     - Instructor (Fall 2020)
