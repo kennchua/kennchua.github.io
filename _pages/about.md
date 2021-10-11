@@ -14,7 +14,9 @@ My current research studies the role of school resources and environment in shap
 
 <p style="line-height:115%">
 Fields of interest:
+
 _Primary:_ Applied Microeconomics and Development Economics
+
 _Secondary:_ Labor Economics and Environmental Economics
 </p>
 
