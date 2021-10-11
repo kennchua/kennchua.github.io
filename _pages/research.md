@@ -18,6 +18,6 @@ author_profile: true
 
 
 ## Peer-reviewed Publications
-["Heat Waves, Climate Change, and Economic Output,"](https://doi.org/10.1093/jeea/jvab009) with Steve Miller, Jay Coggins, and Hamid Mohtadi. *Journal of the European Economic Association* (2021).
+["Heat Waves, Climate Change, and Economic Output,"](https://doi.org/10.1093/jeea/jvab009) with [Steve Miller](http://stevejmiller.com/), [Jay Coggins](https://apec.umn.edu/people/jay-coggins), and [Hamid Mohtadi](https://sites.uwm.edu/mohtadi/). *Journal of the European Economic Association* (2021).
 
 ["Tenurial Security and Agricultural Investment: Evidence from Vietnam,"](https://doi.org/10.1016/j.foodpol.2020.101839) with [Marc Bellemare](http://marcfbellemare.com/wordpress/), [Julieth Santamaria](https://www.juliethsantamaria.com/), and [Khoa Vu](https://sites.google.com/view/khoavu-umn/home). *Food Policy* (2020).
