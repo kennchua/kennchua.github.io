@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Code, Data, and Learning Resources"
 permalink: /resources/
 author_profile: true
 redirect_from:
@@ -36,6 +36,6 @@ During my [#rstats](https://twitter.com/search?q=%23rstats&src=typed_query) jour
 4. Spatial Analysis in R
 - Robin Lovelace, Jakub Nowosad, and Jannes Muenchow's [Geocomputation with R](https://geocompr.robinlovelace.net/)
 - Manuel Gimond's [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/)
-5. Other Resources
+5. Additional Resources
 - Grant McDermott's [Data Science for Economists](https://github.com/uo-ec607/lectures) lecture notes
 - Andrew Heiss's [Data Visualization](https://datavizs21.classes.andrewheiss.com/) course materials
