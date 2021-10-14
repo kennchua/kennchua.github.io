@@ -16,3 +16,4 @@ redirect_from:
 
 **STATA Workshop for Graduate Students**
 - Instructor (Summer 2017)
+- [Syllabus](https://github.com/kennchua/Workshop_Stata/blob/master/Syllabus/Syllabus.pdf)
